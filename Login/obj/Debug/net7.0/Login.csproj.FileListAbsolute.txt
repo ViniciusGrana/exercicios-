@@ -1,0 +1,15 @@
+C:\Users\54106581833\Desktop\Login\bin\Debug\net7.0\Login.exe
+C:\Users\54106581833\Desktop\Login\bin\Debug\net7.0\Login.deps.json
+C:\Users\54106581833\Desktop\Login\bin\Debug\net7.0\Login.runtimeconfig.json
+C:\Users\54106581833\Desktop\Login\bin\Debug\net7.0\Login.dll
+C:\Users\54106581833\Desktop\Login\bin\Debug\net7.0\Login.pdb
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\Login.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\Login.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\Login.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\Login.dll
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\refint\Login.dll
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\Login.pdb
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\Login.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\Login\obj\Debug\net7.0\ref\Login.dll

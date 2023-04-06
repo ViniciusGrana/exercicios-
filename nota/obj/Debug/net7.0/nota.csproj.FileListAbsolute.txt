@@ -1,0 +1,15 @@
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\nota.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\nota.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\nota.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\nota.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\nota\bin\Debug\net7.0\nota.exe
+C:\Users\54106581833\Desktop\nota\bin\Debug\net7.0\nota.deps.json
+C:\Users\54106581833\Desktop\nota\bin\Debug\net7.0\nota.runtimeconfig.json
+C:\Users\54106581833\Desktop\nota\bin\Debug\net7.0\nota.dll
+C:\Users\54106581833\Desktop\nota\bin\Debug\net7.0\nota.pdb
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\nota.dll
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\refint\nota.dll
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\nota.pdb
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\nota.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\nota\obj\Debug\net7.0\ref\nota.dll
