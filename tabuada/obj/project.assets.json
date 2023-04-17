@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54106581833\\Desktop\\tabuada\\tabuada.csproj",
+      "projectUniqueName": "C:\\Users\\54106581833\\Desktop\\exercicios-\\tabuada\\tabuada.csproj",
       "projectName": "tabuada",
-      "projectPath": "C:\\Users\\54106581833\\Desktop\\tabuada\\tabuada.csproj",
+      "projectPath": "C:\\Users\\54106581833\\Desktop\\exercicios-\\tabuada\\tabuada.csproj",
       "packagesPath": "C:\\Users\\54106581833\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54106581833\\Desktop\\tabuada\\obj\\",
+      "outputPath": "C:\\Users\\54106581833\\Desktop\\exercicios-\\tabuada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\54106581833\\AppData\\Roaming\\NuGet\\NuGet.Config",

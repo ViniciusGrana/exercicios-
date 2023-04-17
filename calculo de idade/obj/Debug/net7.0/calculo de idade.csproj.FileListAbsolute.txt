@@ -1,0 +1,15 @@
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\calculo de idade.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\calculo de idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\calculo de idade.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\calculo de idade.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\calculo de idade.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\calculo de idade\bin\Debug\net7.0\calculo de idade.exe
+C:\Users\54106581833\Desktop\calculo de idade\bin\Debug\net7.0\calculo de idade.deps.json
+C:\Users\54106581833\Desktop\calculo de idade\bin\Debug\net7.0\calculo de idade.runtimeconfig.json
+C:\Users\54106581833\Desktop\calculo de idade\bin\Debug\net7.0\calculo de idade.dll
+C:\Users\54106581833\Desktop\calculo de idade\bin\Debug\net7.0\calculo de idade.pdb
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\calculo de idade.dll
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\refint\calculo de idade.dll
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\calculo de idade.pdb
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\calculo de idade.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\calculo de idade\obj\Debug\net7.0\ref\calculo de idade.dll

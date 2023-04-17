@@ -1,0 +1,15 @@
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\bin\Debug\net7.0\pesquisa homens e mulheres.exe
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\bin\Debug\net7.0\pesquisa homens e mulheres.deps.json
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\bin\Debug\net7.0\pesquisa homens e mulheres.runtimeconfig.json
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\bin\Debug\net7.0\pesquisa homens e mulheres.dll
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\bin\Debug\net7.0\pesquisa homens e mulheres.pdb
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\pesquisa homens e mulheres.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\pesquisa homens e mulheres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\pesquisa homens e mulheres.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\pesquisa homens e mulheres.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\pesquisa homens e mulheres.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\pesquisa homens e mulheres.dll
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\refint\pesquisa homens e mulheres.dll
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\pesquisa homens e mulheres.pdb
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\pesquisa homens e mulheres.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\pesquisa homens e mulheres\obj\Debug\net7.0\ref\pesquisa homens e mulheres.dll

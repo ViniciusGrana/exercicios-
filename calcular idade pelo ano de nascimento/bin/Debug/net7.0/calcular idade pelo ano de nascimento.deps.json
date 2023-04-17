@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "calcular idade pelo ano de nascimento/1.0.0": {
+        "runtime": {
+          "calcular idade pelo ano de nascimento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calcular idade pelo ano de nascimento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
